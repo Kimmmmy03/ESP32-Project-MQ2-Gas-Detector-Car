@@ -55,16 +55,14 @@ This project addresses that gap with a **fully autonomous mobile gas detection p
 ---
 
 ## Gallery
-
 Front 
-
+<img width="373" height="308" alt="Screenshot 2026-04-26 184601" src="https://github.com/user-attachments/assets/d802bd8e-be75-4957-8d7b-88bdb426f839" />
 Rear
-
-
+<img width="386" height="391" alt="Screenshot 2026-04-26 184554" src="https://github.com/user-attachments/assets/5cff057c-6955-4d8b-950c-e9a0ed64dcee" />
 Left
-
+<img width="577" height="426" alt="Screenshot 2026-04-26 184545" src="https://github.com/user-attachments/assets/ba4d62da-8d76-4cc1-8b8c-66cdb0195596" />
 Right
-
+<img width="573" height="432" alt="Screenshot 2026-04-26 184531" src="https://github.com/user-attachments/assets/deda7453-55ec-4729-b8ec-fe020a431832" />
 ---
 
 ## System Architecture
@@ -123,6 +121,7 @@ LOOP (every ~100 ms)
 
 ### Circuit Diagram
 
+<img width="583" height="623" alt="Screenshot 2026-04-26 184519" src="https://github.com/user-attachments/assets/338ceeb5-f52e-49d9-a5ba-6359f405b2fc" />
 
 ---
 
