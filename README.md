@@ -161,7 +161,7 @@ LOOP (every ~100 ms)
 | # | Component | Qty | Function |
 |---|-----------|:---:|---------|
 | 1 | 2WD Compact Robot Car Chassis | 1 | Structural base — mounts all hardware |
-| 2 | Drive Wheels + Castor Wheel | — | Mobility, balance, and directional control |
+| 2 | Drive Wheels + Castor Wheel | 2 | Mobility, balance, and directional control |
 | 3 | 3D-Printed Ultrasonic Bracket | 4 | Positions HC-SR04 sensors at correct angles |
 
 ---
